@@ -1,1 +1,14 @@
 
+body{
+    background-color: black;
+}
+#titulo{
+color: blue;
+font-size: 30px;
+}
+
+.parrafo{
+color: red;
+font-family: 'Courier New', Courier, monospace;
+
+}
